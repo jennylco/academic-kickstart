@@ -3,7 +3,7 @@
 name: Jenny Code
 
 # Username (this should match the folder name)
-authors:
+authors: 
 - admin
 
 # Is this the primary user of the site?
@@ -18,13 +18,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:""
+bio: Carleton University student studying history. 
 
 interests:
--
+- Medical history
+- Early modern Europe
+- Animals
+- Herbal remedies 
 
 education:
-  -
+  - 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
